@@ -7,6 +7,9 @@ This is a frontend capston project given by the Almabetter which is Flashcard Ge
 Link to visit the FlashCard Generator App
 
 Youtube Link for the video demonstration of the project
+```bash
+https://www.youtube.com/watch?v=vVFROxt5mms&t=119s
+```
 
 
 ## Run Locally
