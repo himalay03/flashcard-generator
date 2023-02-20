@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# AlmaBetter- FlashCard Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a frontend capston project given by the Almabetter which is Flashcard Generator
 
-## Available Scripts
+## Deployment
 
-In the project directory, you can run:
+Link to visit the FlashCard Generator App
 
-### `npm start`
+Youtube Link for the video demonstration of the project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Run Locally
 
-### `npm test`
+### Clone the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  git clone https:
+  
+### Install dependencies
 
-### `npm run build`
+ ```bash
+ npm install
+ ```
+  
+### Start the server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ```bash
+ npm run start
+ ```
+  
+## About The App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a FlashCard Generator app which have been created mainly using Reactjs. 
+So, what is a Flashcard?
+A Flashcard is a card bearing information on one side or both sides, which is intended to be used as an aid in memorization.
+This app has three pages:
+1.	Create Flashcard Page
+2.	My Flashcard Page
+3.	Flashcard Details Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Create Flashcard Page: This is the homepage of the app where flashcards are created using input boxes provided by Formix.
 
-### `npm run eject`
+My Flashcard Page: This page shows the list of flashcard groups created in the Create page.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Flashcard Details Page: In this page there is a full detail of the cards created earlier with share link, print option and download button. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How To Use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1.	Go to the flashcard generator deployment link.
+2.	The first page is ‘Create New’ page. In this page there are input boxes for creating new groups. 
+3.	Inside every group there is an option for inserting as many ‘Terms’ as you wish along with its ‘Definition’.
+4.	After done inserting ‘terms’ and its ‘definitions’ there is a ‘Create’ button at the bottom. It creates the ‘group’ and ‘terms’ under the group.
+5.	The second page is ‘My Flashcards’. It shows the list of ‘groups’ created in the previous page.
+6.	Upon clicking the listed groups ‘view cards’ open up and the ‘terms’ and ‘term definitions’ show up.
+7.	At the bottom of this page there is a ‘Clear All Cards’ button which can be used to clear all the records of flashcards from the local storage.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Create Group
+- Add Description (group)
+- Enter Term
+- Term Definition
+- Add More (button)
+- Term Edit (button)
+- Term Delete (button)
+- Create (button)
+- My Flashcards
+- View Flashcards
+- Clear All Cards (button)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tech Stack
 
-### Code Splitting
+- Reactjs( React Router ),
+- Redux & Redux Toolkit,
+- TailwindCSS,
+- React-icons,
+- React Formik & Yup,
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🛠 Skills
 
-### Analyzing the Bundle Size
+- Javascript, 
+- HTML, 
+- CSS, 
+- Reactjs...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Project Created By
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Himalaya Sundi
