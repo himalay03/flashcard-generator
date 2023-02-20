@@ -16,7 +16,10 @@ https://www.youtube.com/watch?v=vVFROxt5mms&t=119s
 
 ### Clone the project
 
-  git clone https:
+  git clone
+```bash
+https://github.com/himalay03/flashcard-generator.git
+```
   
 ### Install dependencies
 
