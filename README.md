@@ -1,10 +1,13 @@
 # AlmaBetter- FlashCard Generator
 
-This is a frontend capston project given by the Almabetter which is Flashcard Generator
+Flashcard Generator is a frontend capston project assigned by the Almabetter.
 
 ## Deployment
 
 Link to visit the FlashCard Generator App
+```bash
+https://himalay03-flashcard-generator.netlify.app/
+```
 
 Youtube Link for the video demonstration of the project
 ```bash
