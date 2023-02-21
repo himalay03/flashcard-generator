@@ -1,6 +1,6 @@
 # AlmaBetter- FlashCard Generator
 
-Flashcard Generator is a frontend capston project assigned by the Almabetter.
+Flashcard Generator is a frontend capstone project assigned by the Almabetter.
 
 ## Deployment
 
